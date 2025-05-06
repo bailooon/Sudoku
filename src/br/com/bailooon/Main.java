@@ -1,3 +1,5 @@
+package br.com.bailooon;
+
 import br.com.bailooon.model.Board;
 import br.com.bailooon.model.Space;
 
